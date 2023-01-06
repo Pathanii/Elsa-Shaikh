@@ -1,10 +1,5 @@
 ![github stats](https://github-readme-stats.vercel.app/api?username=Elsa-Shaikh&show_icons=true&theme=dark)
 
-<a href="https://github.com/Elsa-Shaikh/dump"><img title="FB-MAFIA" src="https://github-readme-stats.vercel.app/api/pin/?username=Elsa-Shaikh&repo=Fb-Mafia&theme=vision-friendly-dark"></a>
-
-<a href="https://github.com/Elsa-Shaikh/brutefb"><img title="SECLIST" src="https://github-readme-stats.vercel.app/api/pin/?username=Elsa-Shaikh&repo=Seclist&theme=vision-friendly-dark"></a>
-
-<a href="https://github.com/Elsa-Shaikh/instagram"><img title="IMPORT" src="https://github-readme-stats.vercel.app/api/pin/?username=Elsa-Shaikh&repo=Import&theme=vision-friendly-dark"></a>
 
 <p align="center">
 
